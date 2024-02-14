@@ -244,6 +244,38 @@
     }
 }
 
+@import url(css2.css);@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://apple.laogoubi.net/static/font/inter-light.woff2) format("woff2"),url(../inter-light.woff) format("woff")
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://apple.laogoubi.net/static/font/inter-regular.woff2) format("woff2"),url(../font/inter-regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://apple.laogoubi.net/static/font/inter-medium.woff2) format("woff2"),url(../font/inter-medium.woff) format("woff")
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://apple.laogoubi.net/static/font/inter-bold.woff2) format("woff2"),url(../font/iter-bold.woff) format("woff")
+}
+
 body {
     margin: 0;
     font-family: var(--tblr-body-font-family);
