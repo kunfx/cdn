@@ -9236,7 +9236,7 @@ textarea.form-control-lg {
 }
 
 .shadow-lg {
-    box-shadow: 0 1rem 3rem rgba(var(--tblr-body-color-rgb),.175)!important
+    box-shadow: 0 0.1rem 0.2rem rgba(var(--tblr-body-color-rgb),.05)!important;
 }
 
 .shadow-none {
