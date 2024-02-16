@@ -1795,7 +1795,7 @@ progress {
 
     .col-md-3 {
         flex: 0 0 auto;
-        width: 25%
+        width: 35%
     }
 
     .col-md-4 {
@@ -15583,7 +15583,7 @@ body {
 }
 
 * {
-    scrollbar-color: rgba(var(--tblr-scrollbar-color,var(--tblr-body-color-rgb)),.16) transparent
+    /* scrollbar-color: rgba(var(--tblr-scrollbar-color, var(--tblr-body-color-rgb)),.16) transparent; */
 }
 
 ::-webkit-scrollbar {
